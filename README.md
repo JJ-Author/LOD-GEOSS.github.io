@@ -41,7 +41,7 @@ German Aerospac Center, [Institute of Networked Energy Systems](https://www.dlr.
 
 ![Inf_AI](images/InfAI_logo_ENG_small.png) 
 
-[Leipzig University - Institute of Applied Informatics](https://infai.org)
+[Leipzig University - Institute of Applied Informatics](https://infai.org/kilt)
 
 [Potsdam Insitute for Climate Impact Research](https://www.pik-potsdam.de)
 
